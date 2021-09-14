@@ -1,0 +1,33 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "player": {
+      "home": {
+        "title": "Players",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Player-ஐ உருவாக்கு",
+        "createOrEditLabel": "Player -ஐ மாற்று (அ) உருவாக்கு",
+        "search": "Search for Player",
+        "notFound": "No Players found"
+      },
+      "created": "Player புதிதாக உருவாக்கப்பட்டது, அடையாளம் {{ param }}",
+      "updated": "Player மாற்றப்பட்டது, அடையாளம்  {{ param }}",
+      "deleted": "A Player நீக்கப்பட்டது, அடையாளம {{ param }}",
+      "delete": {
+        "question": "நீக்குவதற்கு உறுதி செய் Player {{ id }}?"
+      },
+      "detail": {
+        "title": "Player"
+      },
+      "id": "ID",
+      "name": "Name",
+      "country": "Country",
+      "age": "Age",
+      "position": "Position",
+      "foot": "Foot",
+      "signed": "Signed",
+      "contractUntil": "Contract Until",
+      "value": "Value",
+      "team": "Team"
+    }
+  }
+}

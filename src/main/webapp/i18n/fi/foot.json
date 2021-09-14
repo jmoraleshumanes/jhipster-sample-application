@@ -1,0 +1,10 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "Foot": {
+      "null": "",
+      "LEFT": "LEFT",
+      "RIGHT": "RIGHT",
+      "BOTH": "BOTH"
+    }
+  }
+}

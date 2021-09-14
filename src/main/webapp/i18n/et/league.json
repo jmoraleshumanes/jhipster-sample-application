@@ -1,0 +1,26 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "league": {
+      "home": {
+        "title": "Leagues",
+        "refreshListLabel": "Värskenda nimekirja",
+        "createLabel": "Lisa uus League",
+        "createOrEditLabel": "Lisa või muuda League",
+        "search": "Otsi League",
+        "notFound": "Ei leitud ühtegi Leagues"
+      },
+      "created": "Uus League on loodud identifikaatoriga {{ param }}",
+      "updated": "League identifikaatoriga {{ param }} on muudetud",
+      "deleted": "League identifikaatoriga {{ param }} on kustutatud",
+      "delete": {
+        "question": "Kas olete kindel, et soovite kustutada League {{ id }}?"
+      },
+      "detail": {
+        "title": "League"
+      },
+      "id": "ID",
+      "name": "Name",
+      "team": "Team"
+    }
+  }
+}

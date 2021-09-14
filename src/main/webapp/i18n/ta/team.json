@@ -1,0 +1,26 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "team": {
+      "home": {
+        "title": "Teams",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Team-ஐ உருவாக்கு",
+        "createOrEditLabel": "Team -ஐ மாற்று (அ) உருவாக்கு",
+        "search": "Search for Team",
+        "notFound": "No Teams found"
+      },
+      "created": "Team புதிதாக உருவாக்கப்பட்டது, அடையாளம் {{ param }}",
+      "updated": "Team மாற்றப்பட்டது, அடையாளம்  {{ param }}",
+      "deleted": "A Team நீக்கப்பட்டது, அடையாளம {{ param }}",
+      "delete": {
+        "question": "நீக்குவதற்கு உறுதி செய் Team {{ id }}?"
+      },
+      "detail": {
+        "title": "Team"
+      },
+      "id": "ID",
+      "name": "Name",
+      "league": "League"
+    }
+  }
+}

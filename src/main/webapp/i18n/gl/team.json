@@ -1,0 +1,26 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "team": {
+      "home": {
+        "title": "Teams",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Crear novo Team",
+        "createOrEditLabel": "Crear ou editar Team",
+        "search": "Search for Team",
+        "notFound": "No Teams found"
+      },
+      "created": "Un novo Team foi creado co identificador {{ param }}",
+      "updated": "Un Team foi actualizado co identificador {{ param }}",
+      "deleted": "Un Team foi eliminado co identificador {{ param }}",
+      "delete": {
+        "question": "Seguro que desexa eliminar Team {{ id }}?"
+      },
+      "detail": {
+        "title": "Team"
+      },
+      "id": "ID",
+      "name": "Name",
+      "league": "League"
+    }
+  }
+}

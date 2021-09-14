@@ -1,0 +1,26 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "league": {
+      "home": {
+        "title": "Leagues",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "创建新 League",
+        "createOrEditLabel": "创建或编辑 League",
+        "search": "查找 League",
+        "notFound": "No Leagues found"
+      },
+      "created": "League {{ param }} 创建成功",
+      "updated": "League {{ param }} 更新成功",
+      "deleted": "League {{ param }} 删除成功",
+      "delete": {
+        "question": "你确定要删除 League {{ id }} 吗？"
+      },
+      "detail": {
+        "title": "League"
+      },
+      "id": "ID",
+      "name": "Name",
+      "team": "Team"
+    }
+  }
+}

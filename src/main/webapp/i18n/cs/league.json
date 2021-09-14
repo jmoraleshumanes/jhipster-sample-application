@@ -1,0 +1,26 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "league": {
+      "home": {
+        "title": "Leagues",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Vytvořit League",
+        "createOrEditLabel": "Vytvořit nebo upravit League",
+        "search": "Vyhledat League",
+        "notFound": "No Leagues found"
+      },
+      "created": "Byl vytvořen potomek entity League s identifikátorem {{ param }}",
+      "updated": "Potomek entity League s identifikátorem {{ param }} byl upravený.",
+      "deleted": "Potomek entity League s identifikátorem {{ param }} bol smazaný.",
+      "delete": {
+        "question": "Jste si jisti, že chcete smazat League {{ id }}?"
+      },
+      "detail": {
+        "title": "League"
+      },
+      "id": "ID",
+      "name": "Name",
+      "team": "Team"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "league": {
+      "home": {
+        "title": "Leagues",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Egy új League létrehozása",
+        "createOrEditLabel": "Hozzon létre, vagy módosítson Leaguet",
+        "search": "League keresése",
+        "notFound": "No Leagues found"
+      },
+      "created": "Egy új League lett létrehozva {{ param }} azonosítóval",
+      "updated": "A League módosítva lett {{ param }} azonosítóval",
+      "deleted": "A League törölve lett {{ param }} azonosítóval",
+      "delete": {
+        "question": "Biztos benne, hogy törölni szeretné az Leaguet {{ id }} azonosítóval?"
+      },
+      "detail": {
+        "title": "League"
+      },
+      "id": "ID",
+      "name": "Name",
+      "team": "Team"
+    }
+  }
+}

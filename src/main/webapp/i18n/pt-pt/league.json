@@ -1,0 +1,26 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "league": {
+      "home": {
+        "title": "Leagues",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Criar novo(a) League",
+        "createOrEditLabel": "Criar ou editar League",
+        "search": "Procurar por League",
+        "notFound": "Nenhum Leagues encontrado"
+      },
+      "created": "Um novo League foi criado com o identificador {{ param }}",
+      "updated": "League com identificador {{ param }} foi actualizado",
+      "deleted": "League com identificador {{ param }} foi eliminado",
+      "delete": {
+        "question": "Tem a certeza que pretende eliminar o(a) League {{ id }}?"
+      },
+      "detail": {
+        "title": "League"
+      },
+      "id": "ID",
+      "name": "Name",
+      "team": "Team"
+    }
+  }
+}

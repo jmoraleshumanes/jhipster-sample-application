@@ -1,0 +1,26 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "team": {
+      "home": {
+        "title": "Teams",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Pridať Team",
+        "createOrEditLabel": "Pridať alebo upraviť Team",
+        "search": "Vyhľadať Team",
+        "notFound": "No Teams found"
+      },
+      "created": "Bol vytvorený potomok entity Team s identifikátorom {{ param }}",
+      "updated": "Potomok entity Team s identifikátorom {{ param }} bol upravený.",
+      "deleted": "Potomok entity Team s identifikátorom {{ param }} bol vymazaný.",
+      "delete": {
+        "question": "Ste si istý, že chcete vymazať Team {{ id }}?"
+      },
+      "detail": {
+        "title": "Team"
+      },
+      "id": "ID",
+      "name": "Name",
+      "league": "League"
+    }
+  }
+}

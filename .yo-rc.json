@@ -88,7 +88,9 @@
     "devServerPort": 9060,
     "clientTheme": "none",
     "clientThemeVariant": "",
-    "reactive": false
+    "reactive": false,
+    "entities": ["League", "Team", "Player"],
+    "lastLiquibaseTimestamp": 1631648829000
   },
   "git-provider": "GitHub",
   "git-company": "jmoraleshumanes",

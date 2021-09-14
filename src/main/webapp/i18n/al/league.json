@@ -1,0 +1,26 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "league": {
+      "home": {
+        "title": "Leagues",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Krijo një të ri League",
+        "createOrEditLabel": "Krijo ose përpuno një League",
+        "search": "Kërko për League",
+        "notFound": "No Leagues found"
+      },
+      "created": "Një League i ri u krijua me identifikues {{ param }}",
+      "updated": "Një League u përpunua me identifikues {{ param }}",
+      "deleted": "Një League u fshi me identifikues {{ param }}",
+      "delete": {
+        "question": "Jeni i sigurtë që doni të fshini League {{ id }}?"
+      },
+      "detail": {
+        "title": "League"
+      },
+      "id": "ID",
+      "name": "Name",
+      "team": "Team"
+    }
+  }
+}

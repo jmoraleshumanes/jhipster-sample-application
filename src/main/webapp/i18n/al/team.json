@@ -1,0 +1,26 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "team": {
+      "home": {
+        "title": "Teams",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Krijo një të ri Team",
+        "createOrEditLabel": "Krijo ose përpuno një Team",
+        "search": "Kërko për Team",
+        "notFound": "No Teams found"
+      },
+      "created": "Një Team i ri u krijua me identifikues {{ param }}",
+      "updated": "Një Team u përpunua me identifikues {{ param }}",
+      "deleted": "Një Team u fshi me identifikues {{ param }}",
+      "delete": {
+        "question": "Jeni i sigurtë që doni të fshini Team {{ id }}?"
+      },
+      "detail": {
+        "title": "Team"
+      },
+      "id": "ID",
+      "name": "Name",
+      "league": "League"
+    }
+  }
+}

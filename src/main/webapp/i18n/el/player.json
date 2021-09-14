@@ -1,0 +1,33 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "player": {
+      "home": {
+        "title": "Players",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Δημιουργήστε ένα νέο Player",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Player",
+        "search": "Αναζήτηση για Player",
+        "notFound": "No Players found"
+      },
+      "created": "Ένα νέο Player έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα Player έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα Player έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Player {{ id }};"
+      },
+      "detail": {
+        "title": "Player"
+      },
+      "id": "ID",
+      "name": "Name",
+      "country": "Country",
+      "age": "Age",
+      "position": "Position",
+      "foot": "Foot",
+      "signed": "Signed",
+      "contractUntil": "Contract Until",
+      "value": "Value",
+      "team": "Team"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "player": {
+      "home": {
+        "title": "Players",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "建立一筆新的 Player",
+        "createOrEditLabel": "建立或編輯 Player",
+        "search": "搜尋 Player",
+        "notFound": "No Players found"
+      },
+      "created": "新的 Player 建立成功，識別碼為 {{ param }}",
+      "updated": "識別碼為 {{ param }} 的 Player 更新成功",
+      "deleted": "識別碼為 {{ param }} 的 Player 刪除成功",
+      "delete": {
+        "question": "您確定要刪除 Player {{ id }} 嗎?"
+      },
+      "detail": {
+        "title": "Player"
+      },
+      "id": "ID",
+      "name": "Name",
+      "country": "Country",
+      "age": "Age",
+      "position": "Position",
+      "foot": "Foot",
+      "signed": "Signed",
+      "contractUntil": "Contract Until",
+      "value": "Value",
+      "team": "Team"
+    }
+  }
+}

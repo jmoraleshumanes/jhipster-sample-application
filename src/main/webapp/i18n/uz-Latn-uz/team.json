@@ -1,0 +1,26 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "team": {
+      "home": {
+        "title": "Teams",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Yangi Team qo`shish",
+        "createOrEditLabel": "Teamni tahrirlash",
+        "search": "Teamni izlash",
+        "notFound": "No Teams found"
+      },
+      "created": "Team {{ param }} bilan qo`shildi",
+      "updated": "{{ param }}- Team saqlandi",
+      "deleted": "{{ param }}- Team o`chirildi",
+      "delete": {
+        "question": "{{ id }}- Teamni o`chirmoqchimisiz? "
+      },
+      "detail": {
+        "title": "Team"
+      },
+      "id": "ID",
+      "name": "Name",
+      "league": "League"
+    }
+  }
+}

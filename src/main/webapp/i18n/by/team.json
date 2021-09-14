@@ -1,0 +1,26 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "team": {
+      "home": {
+        "title": "Teams",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Стварыць новы Team",
+        "createOrEditLabel": "Стварыць або адрэдагаваць Team",
+        "search": "Знайсці Team",
+        "notFound": "No Teams found"
+      },
+      "created": "Новы Team створан з ідэнтыфікатарам {{ param }}",
+      "updated": "Team абноўлен з ідэнтыфікатарам {{ param }}",
+      "deleted": "Team выдален з ідэнтыфікатарам {{ param }}",
+      "delete": {
+        "question": "Вы ўпэўнены, што жадаеце выдаліць Team {{ id }}?"
+      },
+      "detail": {
+        "title": "Team"
+      },
+      "id": "ID",
+      "name": "Name",
+      "league": "League"
+    }
+  }
+}

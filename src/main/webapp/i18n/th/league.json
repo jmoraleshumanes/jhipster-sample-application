@@ -1,0 +1,26 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "league": {
+      "home": {
+        "title": "Leagues",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "สร้าง League",
+        "createOrEditLabel": "สร้างหรือแก้ไข League",
+        "search": "ค้นหา League",
+        "notFound": "No Leagues found"
+      },
+      "created": "League ถูกสร้างด้วย {{ param }}",
+      "updated": "League ถูกแก้ไขด้วย {{ param }}",
+      "deleted": "League ถูกลบด้วย {{ param }}",
+      "delete": {
+        "question": "คุณต้องการที่จะลบ League {{ id }}?"
+      },
+      "detail": {
+        "title": "League"
+      },
+      "id": "ID",
+      "name": "Name",
+      "team": "Team"
+    }
+  }
+}
