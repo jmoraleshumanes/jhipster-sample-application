@@ -1,0 +1,33 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "player": {
+      "home": {
+        "title": "Players",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Krijo një të ri Player",
+        "createOrEditLabel": "Krijo ose përpuno një Player",
+        "search": "Kërko për Player",
+        "notFound": "No Players found"
+      },
+      "created": "Një Player i ri u krijua me identifikues {{ param }}",
+      "updated": "Një Player u përpunua me identifikues {{ param }}",
+      "deleted": "Një Player u fshi me identifikues {{ param }}",
+      "delete": {
+        "question": "Jeni i sigurtë që doni të fshini Player {{ id }}?"
+      },
+      "detail": {
+        "title": "Player"
+      },
+      "id": "ID",
+      "name": "Name",
+      "country": "Country",
+      "age": "Age",
+      "position": "Position",
+      "foot": "Foot",
+      "signed": "Signed",
+      "contractUntil": "Contract Until",
+      "value": "Value",
+      "team": "Team"
+    }
+  }
+}

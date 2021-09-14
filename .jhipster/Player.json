@@ -1,0 +1,58 @@
+{
+  "name": "Player",
+  "fields": [
+    {
+      "fieldName": "name",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "country",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "age",
+      "fieldType": "Long"
+    },
+    {
+      "fieldName": "position",
+      "fieldType": "Position",
+      "fieldValues": "POR,LI,LD,DFC,MD,MI,MC,DEL"
+    },
+    {
+      "fieldName": "foot",
+      "fieldType": "Foot",
+      "fieldValues": "LEFT,RIGHT,BOTH"
+    },
+    {
+      "fieldName": "signed",
+      "fieldType": "Instant"
+    },
+    {
+      "fieldName": "contractUntil",
+      "fieldType": "Instant"
+    },
+    {
+      "fieldName": "value",
+      "fieldType": "Long"
+    }
+  ],
+  "relationships": [
+    {
+      "relationshipType": "one-to-one",
+      "otherEntityName": "team",
+      "otherEntityRelationshipName": "player",
+      "relationshipName": "team",
+      "ownerSide": true
+    }
+  ],
+  "entityTableName": "player",
+  "dto": "no",
+  "pagination": "no",
+  "service": "serviceImpl",
+  "jpaMetamodelFiltering": false,
+  "fluentMethods": true,
+  "readOnly": false,
+  "embedded": false,
+  "applications": "*",
+  "changelogDate": "20210914194709"
+}

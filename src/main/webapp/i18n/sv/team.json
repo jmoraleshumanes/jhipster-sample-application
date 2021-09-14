@@ -1,0 +1,26 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "team": {
+      "home": {
+        "title": "Teams",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Skapa en ny Team",
+        "createOrEditLabel": "Skapa eller ändra en Team",
+        "search": "Sök efter Team",
+        "notFound": "No Teams found"
+      },
+      "created": "En ny Team är skapad med id {{ param }}",
+      "updated": "En Team är uppdaterad med id  {{ param }}",
+      "deleted": "En Team är borttagen med id  {{ param }}",
+      "delete": {
+        "question": "Är du säker på att du vill ta bort Team {{ id }}?"
+      },
+      "detail": {
+        "title": "Team"
+      },
+      "id": "ID",
+      "name": "Name",
+      "league": "League"
+    }
+  }
+}

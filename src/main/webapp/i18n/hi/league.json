@@ -1,0 +1,26 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "league": {
+      "home": {
+        "title": "Leagues",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "नया League बनाएँ",
+        "createOrEditLabel": "League बनाएँ या संपादित करें",
+        "search": "League खोजें",
+        "notFound": "No Leagues found"
+      },
+      "created": "एक नया League [identifier: {{ param }}] तैयार है",
+      "updated": "एक League [identifier: {{ param }}] का अद्यतन हुआ है",
+      "deleted": "League [identifier: {{ param }}] हटा दिया है",
+      "delete": {
+        "question": "League [id: {{ id }}] हटाने की पुष्टि करें"
+      },
+      "detail": {
+        "title": "League"
+      },
+      "id": "ID",
+      "name": "Name",
+      "team": "Team"
+    }
+  }
+}

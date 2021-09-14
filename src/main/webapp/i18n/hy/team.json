@@ -1,0 +1,26 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "team": {
+      "home": {
+        "title": "Teams",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Ստեղծել նոր Team",
+        "createOrEditLabel": "Ստեղծել կամ փոփոխել Team",
+        "search": "Գտնել Team",
+        "notFound": "No Teams found"
+      },
+      "created": "Նոր Team ստեղծված է {{ param }} նունացուցիչով",
+      "updated": "Team թարմացվաց է {{ param }} նունացուցիչով",
+      "deleted": "Team հեռացված է {{ param }}  նունացուցիչով",
+      "delete": {
+        "question": "Դուք վստահ ե՞ք, որ ցանկանում եք հեռացնել Team {{ id }}?"
+      },
+      "detail": {
+        "title": "Team"
+      },
+      "id": "ID",
+      "name": "Name",
+      "league": "League"
+    }
+  }
+}

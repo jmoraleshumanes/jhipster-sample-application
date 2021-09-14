@@ -1,0 +1,26 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "team": {
+      "home": {
+        "title": "Teams",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Creeare o nouă entitate Team",
+        "createOrEditLabel": "Creeare sau editare Team",
+        "search": "Căutare după Team",
+        "notFound": "No Teams found"
+      },
+      "created": "A fost creată o nouă entitate Team cu identificatorul {{ param }}",
+      "updated": "Team cu identificatorul {{ param }} a fost actualizată",
+      "deleted": "Team cu identificatorul {{ param }} a fost ștearsă",
+      "delete": {
+        "question": "Sunteți sigur că doriți să ștergeți Team {{ id }}?"
+      },
+      "detail": {
+        "title": "Team"
+      },
+      "id": "ID",
+      "name": "Name",
+      "league": "League"
+    }
+  }
+}

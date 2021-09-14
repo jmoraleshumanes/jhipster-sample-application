@@ -1,0 +1,26 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "team": {
+      "home": {
+        "title": "Teams",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Δημιουργήστε ένα νέο Team",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Team",
+        "search": "Αναζήτηση για Team",
+        "notFound": "No Teams found"
+      },
+      "created": "Ένα νέο Team έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα Team έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα Team έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Team {{ id }};"
+      },
+      "detail": {
+        "title": "Team"
+      },
+      "id": "ID",
+      "name": "Name",
+      "league": "League"
+    }
+  }
+}

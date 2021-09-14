@@ -1,0 +1,26 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "team": {
+      "home": {
+        "title": "Teams",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Thêm mới một Team",
+        "createOrEditLabel": "Thêm mới hoặc cập nhật Team",
+        "search": "Tìm Team",
+        "notFound": "No Teams found"
+      },
+      "created": "Một Team mới được tạo với định danh {{ param }}",
+      "updated": "Một Team cập nhật với định danh {{ param }}",
+      "deleted": "Một Team đã xóa với định danh {{ param }}",
+      "delete": {
+        "question": "Bạn có chắc là muốn xóa Team {{ id }}?"
+      },
+      "detail": {
+        "title": "Team"
+      },
+      "id": "ID",
+      "name": "Name",
+      "league": "League"
+    }
+  }
+}

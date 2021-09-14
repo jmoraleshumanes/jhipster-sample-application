@@ -1,0 +1,26 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "team": {
+      "home": {
+        "title": "Teams",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Buat Team baru",
+        "createOrEditLabel": "Buat atau edit Team",
+        "search": "Cari Team",
+        "notFound": "No Teams found"
+      },
+      "created": "Team dengan id {{ param }} telah dibuat",
+      "updated": "Team dengan id {{ param }} telah diperbaharui",
+      "deleted": "Team dengan id {{ param }} telah dihapus",
+      "delete": {
+        "question": "Apakah anda yakin ingin menghapus Team {{ id }}?"
+      },
+      "detail": {
+        "title": "Team"
+      },
+      "id": "ID",
+      "name": "Name",
+      "league": "League"
+    }
+  }
+}

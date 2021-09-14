@@ -1,0 +1,33 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "player": {
+      "home": {
+        "title": "Players",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Kreiraj novi Player",
+        "createOrEditLabel": "Kreirajte ili izmenite Player",
+        "search": "Potražite Player",
+        "notFound": "No Players found"
+      },
+      "created": "Kreiran je novi Player pod nazivom {{ param }}",
+      "updated": "Player pod nazivom {{ param }} je ažuriran",
+      "deleted": "Player pod nazivom {{ param }} je obrisan",
+      "delete": {
+        "question": "Da li ste sigurni da želite da obrišete Player pod nazivom {{ id }}?"
+      },
+      "detail": {
+        "title": "Player"
+      },
+      "id": "ID",
+      "name": "Name",
+      "country": "Country",
+      "age": "Age",
+      "position": "Position",
+      "foot": "Foot",
+      "signed": "Signed",
+      "contractUntil": "Contract Until",
+      "value": "Value",
+      "team": "Team"
+    }
+  }
+}

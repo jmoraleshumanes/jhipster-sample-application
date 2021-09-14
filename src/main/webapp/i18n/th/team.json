@@ -1,0 +1,26 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "team": {
+      "home": {
+        "title": "Teams",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "สร้าง Team",
+        "createOrEditLabel": "สร้างหรือแก้ไข Team",
+        "search": "ค้นหา Team",
+        "notFound": "No Teams found"
+      },
+      "created": "Team ถูกสร้างด้วย {{ param }}",
+      "updated": "Team ถูกแก้ไขด้วย {{ param }}",
+      "deleted": "Team ถูกลบด้วย {{ param }}",
+      "delete": {
+        "question": "คุณต้องการที่จะลบ Team {{ id }}?"
+      },
+      "detail": {
+        "title": "Team"
+      },
+      "id": "ID",
+      "name": "Name",
+      "league": "League"
+    }
+  }
+}

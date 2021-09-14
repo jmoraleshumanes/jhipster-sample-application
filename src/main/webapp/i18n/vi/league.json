@@ -1,0 +1,26 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "league": {
+      "home": {
+        "title": "Leagues",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Thêm mới một League",
+        "createOrEditLabel": "Thêm mới hoặc cập nhật League",
+        "search": "Tìm League",
+        "notFound": "No Leagues found"
+      },
+      "created": "Một League mới được tạo với định danh {{ param }}",
+      "updated": "Một League cập nhật với định danh {{ param }}",
+      "deleted": "Một League đã xóa với định danh {{ param }}",
+      "delete": {
+        "question": "Bạn có chắc là muốn xóa League {{ id }}?"
+      },
+      "detail": {
+        "title": "League"
+      },
+      "id": "ID",
+      "name": "Name",
+      "team": "Team"
+    }
+  }
+}

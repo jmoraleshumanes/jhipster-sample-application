@@ -1,0 +1,33 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "player": {
+      "home": {
+        "title": "Players",
+        "refreshListLabel": "Liste aktualisieren",
+        "createLabel": "Player erstellen",
+        "createOrEditLabel": "Player erstellen oder bearbeiten",
+        "search": "Suche nach Player",
+        "notFound": "Keine Players gefunden"
+      },
+      "created": "Player erstellt mit ID {{ param }}",
+      "updated": "Player aktualisiert mit ID {{ param }}",
+      "deleted": "Player gelöscht mit ID {{ param }}",
+      "delete": {
+        "question": "Soll Player {{ id }} wirklich dauerhaft gelöscht werden?"
+      },
+      "detail": {
+        "title": "Player"
+      },
+      "id": "ID",
+      "name": "Name",
+      "country": "Country",
+      "age": "Age",
+      "position": "Position",
+      "foot": "Foot",
+      "signed": "Signed",
+      "contractUntil": "Contract Until",
+      "value": "Value",
+      "team": "Team"
+    }
+  }
+}

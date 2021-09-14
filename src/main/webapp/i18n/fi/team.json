@@ -1,0 +1,26 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "team": {
+      "home": {
+        "title": "Teams",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Luo Team",
+        "createOrEditLabel": "Luo tai muokkaa Team",
+        "search": "Etsi Team",
+        "notFound": "Team ei löytynyt"
+      },
+      "created": "Uusi Team on luotu, id: {{ param }}",
+      "updated": "Team on päivitetty, id: {{ param }}",
+      "deleted": "Team on päivitetty, id: {{ param }}",
+      "delete": {
+        "question": "Haluatko varmasti poistaa Team {{ id }}?"
+      },
+      "detail": {
+        "title": "Team"
+      },
+      "id": "ID",
+      "name": "Name",
+      "league": "League"
+    }
+  }
+}

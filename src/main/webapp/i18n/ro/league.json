@@ -1,0 +1,26 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "league": {
+      "home": {
+        "title": "Leagues",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Creeare o nouă entitate League",
+        "createOrEditLabel": "Creeare sau editare League",
+        "search": "Căutare după League",
+        "notFound": "No Leagues found"
+      },
+      "created": "A fost creată o nouă entitate League cu identificatorul {{ param }}",
+      "updated": "League cu identificatorul {{ param }} a fost actualizată",
+      "deleted": "League cu identificatorul {{ param }} a fost ștearsă",
+      "delete": {
+        "question": "Sunteți sigur că doriți să ștergeți League {{ id }}?"
+      },
+      "detail": {
+        "title": "League"
+      },
+      "id": "ID",
+      "name": "Name",
+      "team": "Team"
+    }
+  }
+}

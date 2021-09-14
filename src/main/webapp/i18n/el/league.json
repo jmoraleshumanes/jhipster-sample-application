@@ -1,0 +1,26 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "league": {
+      "home": {
+        "title": "Leagues",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Δημιουργήστε ένα νέο League",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα League",
+        "search": "Αναζήτηση για League",
+        "notFound": "No Leagues found"
+      },
+      "created": "Ένα νέο League έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα League έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα League έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο League {{ id }};"
+      },
+      "detail": {
+        "title": "League"
+      },
+      "id": "ID",
+      "name": "Name",
+      "team": "Team"
+    }
+  }
+}

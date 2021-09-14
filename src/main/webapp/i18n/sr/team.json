@@ -1,0 +1,26 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "team": {
+      "home": {
+        "title": "Teams",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Kreiraj novi Team",
+        "createOrEditLabel": "Kreirajte ili izmenite Team",
+        "search": "Potražite Team",
+        "notFound": "No Teams found"
+      },
+      "created": "Kreiran je novi Team pod nazivom {{ param }}",
+      "updated": "Team pod nazivom {{ param }} je ažuriran",
+      "deleted": "Team pod nazivom {{ param }} je obrisan",
+      "delete": {
+        "question": "Da li ste sigurni da želite da obrišete Team pod nazivom {{ id }}?"
+      },
+      "detail": {
+        "title": "Team"
+      },
+      "id": "ID",
+      "name": "Name",
+      "league": "League"
+    }
+  }
+}
