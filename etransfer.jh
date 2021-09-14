@@ -1,0 +1,41 @@
+
+entity League {
+	name String
+}
+
+entity Team {
+	name String
+}
+
+relationship OneToMany {
+	League{team} to Team
+}
+relationship OneToOne {
+	Player{team} to Team
+}
+
+
+entity Player {
+	name String,
+    country String,
+    age Long,
+    position Position,
+    foot Foot,
+    signed Instant,
+    contractUntil Instant
+    value Long
+}
+
+enum Foot {
+    LEFT, RIGHT, BOTH
+}
+
+enum Position {
+    POR, LI, LD, DFC, MD, MI, MC, DEL
+}
+
+// Set service options to all except few
+service all with serviceImpl
+
+// Set an angular suffix
+// angularSuffix * with mySuffix
